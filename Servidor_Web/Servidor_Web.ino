@@ -2,9 +2,8 @@
 
 WiFiServer server(80);
 
-const char* ssid = "iPhone de Daniel";
-//const char* ssid = "ACNET2";
-const char* password = "yellowsTone";
+const char* ssid = "ACNET2";
+const char* password = "";
 
 String header;       // Variable para guardar el HTTP request
 const int PIN_RELAY = 4 ;
