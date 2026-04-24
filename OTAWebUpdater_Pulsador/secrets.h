@@ -1,2 +1,2 @@
-#define SECRET_SSID "dexter3"
-#define SECRET_PASS "374737473h"
+#define SECRET_SSID "ACNET2"
+#define SECRET_PASS ""
