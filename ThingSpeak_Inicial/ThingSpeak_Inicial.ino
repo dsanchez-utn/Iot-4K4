@@ -6,8 +6,8 @@
 
 //Constantes:
 const int led = 23;
-const char * SSID = "iPhone de Daniel";
-const char * PASS = "yellowsTone";
+const char * SSID = "ACNET2";
+const char * PASS = "";
 
 unsigned long channel = 2274848;
 const char * writeAPIKey = "FXPPV47A789VL2A7"; 
