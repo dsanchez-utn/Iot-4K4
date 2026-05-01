@@ -4,8 +4,8 @@
 
 #define pinDHT 33    //Pin del sensor
 
-const char* ssid = "ACNET2";
-const char* password = "";
+const char* ssid = "iPhone de Daniel";
+const char* password = "yellowsTone";
 
 unsigned long channelID = 2510209;
 const char* WriteAPIKey = "FD2HYTOTLFFV1FQE";
